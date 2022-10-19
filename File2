@@ -3,3 +3,4 @@ Int b;
 Sum = a+b;
 Print Sum
 print a
+Print b
